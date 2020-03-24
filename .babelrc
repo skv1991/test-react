@@ -1,0 +1,12 @@
+{
+  "presets": [
+    ["@babel/env", {
+      "corejs": 3,
+      "useBuiltIns": "usage",
+      "targets": {
+        "firefox": 29
+      }
+    }],
+    "@babel/react"
+  ]
+}
