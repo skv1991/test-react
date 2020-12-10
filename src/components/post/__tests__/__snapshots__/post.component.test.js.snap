@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post Рендеринг 1`] = `
+<article
+  className="post"
+>
+  <h1
+    className="post__title"
+  >
+    Заголовок
+  </h1>
+  <div
+    className="post__text"
+  >
+    Текст
+  </div>
+</article>
+`;
